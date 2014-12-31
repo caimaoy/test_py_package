@@ -1,0 +1,9 @@
+# -*- coding: UTF-8 -*-
+
+import threading
+
+def func():
+    print 'just a test of func'
+
+t = threading.Thread(target=func)
+t.start()

@@ -1,0 +1,33 @@
+ERROR: 11-12 18:08:47: stamp_dll.py:33 * 10396 global name 'ctype' is not defined
+ERROR: 11-12 18:09:04: stamp_dll.py:33 * 7600 global name 'ctype' is not defined
+ERROR: 11-12 18:09:14: stamp_dll.py:33 * 8316 'int' object is not callable
+ERROR: 11-12 18:10:45: stamp_dll.py:33 * 11544 'int' object is not callable
+ERROR: 11-12 18:12:57: stamp_dll.py:33 * 3408 'int' object is not callable
+ERROR: 11-12 18:14:23: stamp_dll.py:35 * 12220 'int' object is not callable
+ERROR: 11-12 18:15:09: stamp_dll.py:35 * 8508 'int' object is not callable
+ERROR: 11-12 18:15:52: stamp_dll.py:35 * 9100 'int' object is not callable
+ERROR: 11-12 18:16:21: stamp_dll.py:35 * 8196 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:17:17: stamp_dll.py:35 * 10916 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:17:54: stamp_dll.py:36 * 11356 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:18:17: stamp_dll.py:36 * 11192 Procedure probably called with too many arguments (8 bytes in excess)
+ERROR: 11-12 18:18:35: stamp_dll.py:36 * 6556 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:19:30: stamp_dll.py:36 * 3844 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:51:29: stamp_dll.py:37 * 7140 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:51:42: stamp_dll.py:37 * 12212 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:57:08: stamp_dll.py:38 * 12228 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:57:38: stamp_dll.py:38 * 5312 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:57:50: stamp_dll.py:38 * 8520 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 18:58:14: stamp_dll.py:40 * 11856 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 19:00:12: stamp_dll.py:41 * 7480 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 19:05:57: stamp_dll.py:42 * 11616 global name 'c_wchar_p' is not defined
+ERROR: 11-12 19:06:18: stamp_dll.py:42 * 7072 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:06:44: stamp_dll.py:42 * 11940 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:07:13: stamp_dll.py:42 * 3568 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:09:16: stamp_dll.py:43 * 5276 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:09:55: stamp_dll.py:44 * 7144 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:10:37: stamp_dll.py:44 * 3720 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:11:26: stamp_dll.py:44 * 11584 argument 2: <type 'exceptions.TypeError'>: wrong type
+ERROR: 11-12 19:11:45: stamp_dll.py:44 * 11380 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 19:13:56: stamp_dll.py:44 * 11020 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 19:15:00: stamp_dll.py:44 * 10976 Procedure probably called with too many arguments (12 bytes in excess)
+ERROR: 11-12 19:15:19: stamp_dll.py:44 * 10996 argument 2: <type 'exceptions.TypeError'>: wrong type

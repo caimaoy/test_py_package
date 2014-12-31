@@ -1,0 +1,9 @@
+('D:\\caimaoy\\python\\copy_file\\build\\copy_file\\copy_file.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1407382714L)

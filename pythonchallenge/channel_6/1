@@ -1,0 +1,50 @@
+# -*- coding: UTF-8 -*-
+
+
+'''
+Last modified time: 2014-12-22 18:38:07
+Edit time: 2014-12-25 16:30:04
+File name: def_channel.py
+Edit by caimaoy
+'''
+
+
+import urllib2
+import re
+import pickle
+import zipfile
+
+zf = zipfile.ZipFile('channel.zip')
+
+def _main():
+    url = r'http://www.pythonchallenge.com/pc/def/equality.html'
+    text = urllib2.urlopen(url).read()
+    with open('out.txt', 'w') as f:
+        f.write(text)
+
+def _do_it():
+    zc = []
+    file_name = '90052'
+    reg = r'\d+'
+    # p = r'.\channel\%s.txt'
+    p = r'D:\caimaoy\python\pythonchallenge\channel_6\channel\%s.txt'
+    name = p % file_name
+    print name 
+    zc.append(zf.getinfo(name).comment)
+    while True:
+        # p = ''.join(['\\channel\\', file_name, append])
+        p = r'.\channel\%s.txt'
+        with open(p%file_name, 'r') as f:
+            text = f.read()
+            file_name = re.search(reg, text).group()
+            print file_name
+
+            name = p % file_name
+            print name
+
+            zc.append(zf.getinfo(name).comment)
+
+
+if __name__ == '__main__':
+    # _main()
+    _do_it()

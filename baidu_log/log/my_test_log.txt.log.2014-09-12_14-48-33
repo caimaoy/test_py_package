@@ -1,0 +1,3 @@
+DEBUG: 09-12 14:48:33: py_file.py:15 * 8728 debug test
+INFO: 09-12 14:48:33: py_file.py:16 * 8728 info test
+WARNING: 09-12 14:48:33: py_file.py:17 * 8728 warning test

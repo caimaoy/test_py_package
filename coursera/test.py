@@ -1,0 +1,17 @@
+def future_value(present_value, annual_rate, periods_per_year, years):
+    rate_per_period = annual_rate / periods_per_year
+    periods = periods_per_year * years
+
+    return present_value * (1 + rate_per_period) ** periods
+
+import math
+def project_to_distance(point_x, point_y, distance):
+    dist_to_origin = math.sqrt(point_x ** 2 + point_y ** 2)
+    scale = distance / dist_to_origin
+    print point_x * scale, point_y * scale
+
+
+project_to_distance(2, 7, 4)
+
+if __name__ == '__main__':
+    print future_value(500, .04, 10, 10)

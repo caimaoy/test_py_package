@@ -1,0 +1,13 @@
+WARNING: 09-12 14:48:48: py_file.py:21 * 8728 warning test
+WARNING: 09-12 14:48:48: py_file.py:22 * 8728 4
+WARNING: 09-12 15:03:48: py_file.py:17 * 1308 warning test
+WARNING: 09-12 15:03:51: py_file.py:21 * 1308 warning test
+WARNING: 09-12 15:03:51: py_file.py:22 * 1308 0
+WARNING: 09-12 15:03:54: py_file.py:21 * 1308 warning test
+WARNING: 09-12 15:03:54: py_file.py:22 * 1308 1
+WARNING: 09-12 15:03:57: py_file.py:21 * 1308 warning test
+WARNING: 09-12 15:03:57: py_file.py:22 * 1308 2
+WARNING: 09-12 15:04:00: py_file.py:21 * 1308 warning test
+WARNING: 09-12 15:04:00: py_file.py:22 * 1308 3
+WARNING: 09-12 15:04:03: py_file.py:21 * 1308 warning test
+WARNING: 09-12 15:04:03: py_file.py:22 * 1308 4
