@@ -25,4 +25,3 @@ if __name__ == '__main__':
     l.add('test')
     l.caimaoy()
     print l
-
