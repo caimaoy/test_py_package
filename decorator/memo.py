@@ -33,13 +33,15 @@ def timeit(fn):
     @wraps(fn)
     def wrapper(*args, **kwargs):
         s = time()
-        fn(*args, **kwargs)
+        r = fn(*args, **kwargs)
         e = time()
         print e -s
+        return r
 
     return wrapper
 
 
+@timeit
 @memo
 def fib(n):
     if n < 2:
@@ -52,7 +54,10 @@ if __name__ == '__main__':
     import sys
     sys.setrecursionlimit(1000000)
 
+    fib(100)
+    fib(100)
 
+    '''
     s = time()
     fib(1000)
     e = time()
@@ -62,3 +67,4 @@ if __name__ == '__main__':
     fib(1000)
     e = time()
     print e - s
+    '''
