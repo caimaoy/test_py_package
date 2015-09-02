@@ -1,0 +1,1 @@
+D:\Python27\python.exe D:\caimaoy\python\xiami\my_xiami.py

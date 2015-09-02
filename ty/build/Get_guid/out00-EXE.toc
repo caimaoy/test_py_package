@@ -1,0 +1,9 @@
+('D:\\caimaoy\\python\\ty\\dist\\Get_guid.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1423551743L)

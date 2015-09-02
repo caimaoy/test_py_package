@@ -1,0 +1,135 @@
+id,hash,virus_name,start_stat,end_stat,src_content,task_type,file_format
+176683,800E58059022640C884E1BC632B9F688,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+182371,B6C916A98879FEB3C0E3E33651409488,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+199229,1A3E44E4224C5B693701A0B9546FE488,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+200567,CE668088048EBCA044DAAEC505C31F88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+202585,3D6F89F3F9D4281A5872E49FBEFC70C3,Worm.VBS.Agent.NDH,0,3,NOD32 : VBS/Agent.NDH^worm : 59 : virus,601,ZIP格式自解压可执行文件
+217890,0FDD1C09024F82BC995982E64CC96D88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+221386,125C164202C0DECCA833963C25C87C88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+229161,88C46F2F93A4232935197659456AFC88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+275714,3D4AA0E6AD41BAB48BDF9F4035D7F488,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+354830,6C8FF85C85E8038C698496A972F7F588,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+621075,2C8C94E85EF8C757586590E8D1ABDC6C,Worm.VBS.Agent.NDH,0,3,BAVPE : 2 : 34 : sblack<br>NOD32 : VBS/Agent.NDH^worm : 59 : virus,608,ZIP格式自解压可执行文件
+703560,624D082A9977D256094CE2B8E05FCC2A,Worm.VBS.Agent.NDH,0,3,NOD32 : VBS/Agent.NDH^worm : 59 : virus,608,ZIP格式自解压可执行文件
+731521,73C30F95ACC63A1D4CC44C059BD28FDA,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,608,ZIP格式自解压可执行文件
+767601,8B650E542911A0B875F979EA45A5EF9A,Worm.Win32.VB.OFT,0,3,BAVPE : 2 : 34 : sblack<br>NOD32 : Win32/VB.OFT^worm : 59 : virus<br>AVP : HEUR:Trojan.Win32.Generic : 148 : sblack,608,ZIP格式自解压可执行文件
+950099,FBB0BA6E2E570CA1B4F495F3040B6F6D,Worm.VBS.Agent.NDH,0,3,NOD32 : VBS/Agent.NDH^worm : 59 : virus,608,ZIP格式自解压可执行文件
+1337559,9FB22361C0925E47F3D0D43F16AF7188,Virus.Win32.Sality.ae,2,3,AVP : Virus.Win32.Sality.ae : 50 : virus,401,ZIP格式自解压可执行文件
+1889694,596A6A3CF870899F37B3BA9A1EF44889,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1917471,8147AC664CA156026CDDFE0048E86289,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1924481,277A19D8A9AFAB4E79228B6A3857E889,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1946462,36DE88AACF0FAAA7266AA54877308289,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1956995,0406F797B8BF9CAACD959F5AC3C5B589,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2005643,AEC9D5E8030DAD3FD53C3775AE10AB89,Virus.Win32.Ethan.aa,2,3,NOD32 : W97M/Ethan.B^virus : 58 : virus<br>AVP : Virus.MSWord.Ethan : 50 : virus,401,ZIP格式自解压可执行文件
+2097308,426BAD1BCBC8B4FFBF550F61019E6789,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2180841,D6576DCF57736C31135A7DC4490C2789,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2941333,1AB43F1C3EB5EF2E75344410FD65908A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2958600,BEDF35CAD5C2EAE0939AD9F79820578A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2978355,98186392EECA1D34568F3840E8A3B38A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2981445,4C1C409299BEDEA70471EDA2A9A8228A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2984369,82E742533F373DA8DA12EBD304E9648A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2997404,80AC3D37FD67F2358931526B900D0A8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3091053,A3D66464D39CA11F18F8A67F63FC968A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3104450,7A0CE43EE027929F1EBCAA7C6512598A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3144282,BF4D973AABAA57F820B417D66982578A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3345117,267F93817AB6FF02CCF66BCD72FB588A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+141847,FFEB0210DFD66462D21CC01E15C0B888,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+161345,5B5FBEA8B17B257EDB650EA471B82D88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+166674,9EA1B86C40EBA9CA6264F66D0AEAE788,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+183947,769E5C5612FCC7DF76724B0CBA218788,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+190109,FC3AF208594BE68E0AA0114B0F5FFE88,Virus.Win32.Goblin.D,2,3,NOD32 : Win32/Goblin.D.Gen^virus : 58 : virus,401,ZIP格式自解压可执行文件
+192756,B98FC28E39609B2FA696885543DC7888,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+202859,003BD88CE7282DA006FADBF8FF69AE88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+217631,C3C195E95E9C6C801F234EF5777F3988,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+298443,10F880E1CAB861A7D2E48347DECCF888,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+305775,07678B477BBEB533DCFA44160A344688,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+308073,E3B906DE3226801F7F5AB880379E4D88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+308874,4D77D9DF826F1A70D6A127D381AC3788,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+513251,00C40120FEAEFCD46AE0F78C5B5649D9,Virus.Win32.Drowor.d,0,3,BAVPE : 1 : 35 : swhite<br>NOD32 : Win32/Drowor.NAC^virus : 58 : virus<br>AVP : Virus.Win32.Drowor.d : 50 : virus,609,ZIP格式自解压可执行文件
+585897,1798C635205D1EE7EE754D4E27988447,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,608,ZIP格式自解压可执行文件
+782982,8B650E542911A0B875F979EA45A5EF9A,Worm.Win32.VB.OFT,0,3,BAVPE : 2 : 34 : sblack<br>NOD32 : Win32/VB.OFT^worm : 59 : virus<br>AVP : HEUR:Trojan.Win32.Generic : 148 : sblack,609,ZIP格式自解压可执行文件
+1787042,492DFFB25A7C09D7612396FB0DE1B9FF,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,601,ZIP格式自解压可执行文件
+1905318,E36D4CFED964B41C23587AF519E4AF89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus<br>GENSCAN : Trojan.Win32.Sality.58.51:2232 : 11 : sblack,401,ZIP格式自解压可执行文件
+1918020,4064B274ADCBBEC975B65994922BBF89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1961384,EC4A599446CD0C8957EE12E626E36089,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NDR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2071944,CE9FEBC2ED8C71B7D1B26FB49498F089,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2103971,51EC8FDADF679C1E74BABDF5DAC7CA89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2786663,2592C40BA4992AADA3B6FBEA1F2AF989,Virus.Win32.Nimnul.a,2,3,NOD32 : Win32/Ramnit.H^virus : 58 : virus<br>AVP : Virus.Win32.Nimnul.a : 50 : virus,401,ZIP格式自解压可执行文件
+2864563,92F6273703074896F786E11B81C10C8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2941912,F4E153DFFE0FD0B4C94C070EAE225A8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2965615,4FDB37DC255EF4F7600402978602298A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2969190,0334DF7E715351F056CD5D89520C748A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus<br>GENSCAN : Trojan.Win32.Sality.58.51:2232 : 11 : sblack,401,ZIP格式自解压可执行文件
+3003274,02D1AC7C474FE61700F066193E5E018A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAU^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3008432,A271FE0E0E842F4EAA9A0DDE5CCD878A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3127910,090E99B8DF5FB0C6F226A5B43EFE518A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+175207,4379CBAE0DCD46FE79C63BE78C7E2E88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+193384,86A86E1832E768C7404597B7D1D02688,Virus.Win32.Pioneer.cz,2,3,NOD32 : Win32/Floxif.E^virus : 58 : virus<br>AVP : Virus.Win32.Pioneer.cz : 50 : virus,401,ZIP格式自解压可执行文件
+200299,100631A1497927E561ECA95C29B6BF88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+203870,640EAE9BE492E22EAB5C1618395C1188,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+211754,85A702F6ED41747AA07CC48989AA8888,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+219299,178801FEB88682D0F600CA48A3AA9488,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+240849,F5A1E421F01324040D04A08980D79B88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+242437,A6F593F5AB25C67AC54B26985F730E88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAU^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+245453,C799DF8FB9BC7E9856B5431D924E3788,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+276994,042573633A394E0A2BDC1B0EC5976D88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+322266,7AF8B8AB6032373C2E612E8F05131288,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+330689,AC36B879E2A91E48FCCF0713A655F788,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+376196,C749A00E11F96F05886E96CA57886E88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+525443,0270D202A200DF81FF9EE2FFEF89BF8D,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,609,ZIP格式自解压可执行文件
+585903,1966F3B1D4ADEC25AB866C4E061A1E50,Worm.VBS.Agent.NDH,0,3,BAVPE : 2 : 34 : sblack<br>NOD32 : VBS/Agent.NDH^worm : 59 : virus,608,ZIP格式自解压可执行文件
+667848,49FCFE438DBC66A8C2BC3879B781E673,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,608,ZIP格式自解压可执行文件
+1771262,8CF030023C07C5ACD063026E6577F18E,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,601,ZIP格式自解压可执行文件
+1828908,36FF37142EDF46973297F181968BA489,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus<br>GENSCAN : Trojan.Win32.Buzus.AYn.42:8373 : 11 : sblack,401,ZIP格式自解压可执行文件
+1847498,51315E25B850863C05E71396EDBE8389,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1867210,7DE7C6189D99E8E022090C6AA3F5B889,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1892511,C3E7B30214DB729786D0D732F6795A89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1909192,B74192A9562F8D7E93DE9DCF51D4EE89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1937292,909D4FF337B03349847963860BD26C89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAU^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2112498,7832016CBB0988D3F2E56C98E28D2489,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2220200,D57D340DA3490252B5695E5BEC0E5C89,Virus.Win32.Neshta.a,2,3,NOD32 : Win32/Neshta.A^virus : 58 : virus<br>AVP : Virus.Win32.Neshta.a : 50 : virus,401,ZIP格式自解压可执行文件
+2427321,8D7CD8EC037C8262C3F17E56E0E83889,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2596627,1902C1E817DA1F3BE9A37FF49CD94589,Virus.Win32.Virut.ce,2,3,NOD32 : Win32/Virut.NBP^virus : 58 : virus<br>AVP : Virus.Win32.Virut.ce : 50 : virus,401,ZIP格式自解压可执行文件
+2769721,15D51091194B5FB5BD90BD9B21D08189,Virus.Win32.Neshta.a,2,3,NOD32 : Win32/Neshta.A^virus : 58 : virus<br>AVP : Virus.Win32.Neshta.a : 50 : virus,401,ZIP格式自解压可执行文件
+2892669,52193351997720ADFC99C020C616DC8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2922019,69A953FD09C4E1230072EC8D4C4B418A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2984148,C22DC467D3D9CA1EAF1A66E53CCFEF8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3004110,89B44E3F31273C4C349E9EEC6628538A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3021768,2AB830B9506295CA571B5C52175DB68A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3030561,84156278F1EEF46D3EF422B912AD638A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3208412,7C6B1AECA83C7EDE4E55B9F94AAAE08A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+143961,93D4E63720AC4E64B6ABB92E4D7BB888,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+171230,1805751F72503FF6C64902D4534B9688,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+189643,8A955AF33338DBDDCB20EF1F9D61CB88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+200913,8B50A00358501D820C15AC6A17E50088,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+217837,29D1B70B25613B1B995F05BA11070B88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAU^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+223420,60CBC6794D602BF62454F691D1153388,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+236707,149D7CFB67A4F4D3573A96C6E5179B88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAU^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus<br>GENSCAN : Trojan.Win32.Sality.58.51:2232 : 11 : sblack,401,ZIP格式自解压可执行文件
+246130,B7C6BD7F7ABA86572CC9815ECE22C888,Worm.Win32.Ainslot.AB,2,3,BAVPE : 2 : 34 : sblack<br>NOD32 : Win32/Ainslot.AB^worm : 59 : virus<br>AVP : HEUR:Trojan.Win32.Generic : 148 : sblack,401,ZIP格式自解压可执行文件
+258099,05C591A90FFC2E99F0D160A8A440FE88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+277579,91E0DA257D86E4A7078044AEBD0DED88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+283671,194B75BA856590EBEED6102885AFE388,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,901,ZIP格式自解压可执行文件
+310534,7415A89C97EE194D0C5D04ADDDB9B088,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+356550,95C0018C1716970FCEEE68766975EF88,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+506586,18571BE3E8A35315C4674327A18B2388,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+527690,00F340132C0CEC495AEF12032A2AAB1B,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,608,ZIP格式自解压可执行文件
+689203,53A29F2A2417212EBB73D36DD0D900EA,Worm.VBS.Agent.NDH,0,3,NOD32 : VBS/Agent.NDH^worm : 59 : virus,608,ZIP格式自解压可执行文件
+713293,6212E9A07225D6B71769D2BBBC20CD04,Worm.VBS.Agent.NDH,0,3,NOD32 : VBS/Agent.NDH^worm : 59 : virus,608,ZIP格式自解压可执行文件
+1850621,0462BA05AEE0B65F201C46A1ED34EEA3,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,601,ZIP格式自解压可执行文件
+1889696,CA4562967BA57749B6AC2D61EDCE9289,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1890995,E3D3C235B80184072DF4F21EF8A2A489,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1905997,6266ACF9066E5E1530B41581177E9789,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+1916740,5EA04C4B075D89E66046CD7BC9468889,Virus.Win32.Sality.gen,0,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,901,ZIP格式自解压可执行文件
+1990180,8B79E9BE9243FECABDD6D420EFB34889,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2078276,2C6232ADC9AFF701A24FDCCC9B958D89,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2092488,4895A3735B5F1D66A87DBF260BAD9289,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2185972,21AD222FD2F3A3BF84E3B8A7780EB989,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2961425,DC05520DF193A7239E2968A6A755C18A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2982143,3B4259C394FD1E00875CFA1372C4668A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2992142,73B28FCA07A991871677AACDCB637B8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2995377,3E64F324FA12B900060A51524F1D5C8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+2997464,555B995EFB3FBE889B13D4CE8F86348A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3010072,DB2E57B1A656C6BDCF98F794250BCD8A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3015236,4D6E91FF0FD60D640228F6335BDDB28A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3023558,62768F1E8361D319116399F1FACE818A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3029610,9B45EC64998E753EF2461CBBF5CFA98A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NBA^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus,401,ZIP格式自解压可执行文件
+3154514,D6BADE4B5E1FC6E1017048915108F58A,Virus.Win32.Sality.gen,2,3,NOD32 : Win32/Sality.NAR^virus : 58 : virus<br>AVP : Virus.Win32.Sality.gen : 50 : virus<br>GENSCAN : Trojan.Win32.Sality.58.51:2232 : 11 : sblack,401,ZIP格式自解压可执行文件

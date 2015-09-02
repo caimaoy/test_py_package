@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>caimaoy's blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2013-11-27T00:00:00+01:00</updated><entry><title>pelican install</title><link href="/pelican-install.html" rel="alternate"></link><updated>2013-11-27T00:00:00+01:00</updated><author><name>caimaoy</name></author><id>tag:,2013-11-27:pelican-install.html</id><summary type="html">&lt;p&gt;:date: 2010-10-03 10:20
+:tags: thats, awesome
+:category: yeah
+:slug: my-super-post
+:author: Alexis Metaireau
+:summary: Short version for index and feeds&lt;/p&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li&gt;将模块升级文件上传到10.240.36.36上，通常选用luoman这个文件夹，rz -be&lt;/li&gt;
+&lt;li&gt;部署升级包地址： &lt;a href="http://hk01-client-cc.hk01.baidu.com:8000/autoUpdate/auto_deploy_rebuild/index.php?m=Op&amp;amp;a=onlineRules&amp;amp;"&gt;http://hk01-client-cc.hk01.baidu.com:8000/autoUpdate/auto\_deploy\_rebuild/index.php?m=Op&amp;amp;a=onlineRules&amp;amp;&lt;/a&gt;&lt;br /&gt;
+部署升级包 &lt;img alt="1部署升级包.JPG" src="1部署升级包.JPG" /&gt;&lt;/li&gt;
+&lt;li&gt;创建升级规整 BAV 模块设计 自动 测试国内 &lt;img alt="2创建升级规整.JPG" src="2创建升级规整.JPG" /&gt;&lt;/li&gt;
+&lt;li&gt;上线单审核&lt;/li&gt;
+&lt;li&gt;待上线单&lt;/li&gt;
+&lt;li&gt;可在线上规整操作 查看 解冲突&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配置host&lt;br /&gt;
+10.240.36.36 update.sd.baidu.com&lt;br /&gt;
+10.240.36.36 update.bav.baidu.com&lt;br /&gt;
+10.240.36.36 update.security.baidu.co.th&lt;br /&gt;
+10.240.36.36 download.sd.baidu.com&lt;br /&gt;
+10.240.36.36 download.antivirus.baidu.com&lt;br /&gt;
+10.240.36.36 download.bav.baidu.com&lt;br /&gt;
+10.240.36.36 download.security.baidu.co.th&lt;br /&gt;
+10.240.36.36 updown.bav.baidu.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BavUpdater.exe -svc_no_ui 服务启动的升级，一般使用该方式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;BavUpdater.exe -no_ui 第一次安装后的升级&lt;/li&gt;
+&lt;li&gt;BavUpdater.exe -with_ui 界面升级&lt;/li&gt;
+&lt;li&gt;BavUpdater.exe -avira 小红伞升级&lt;/li&gt;
+&lt;li&gt;BavUpdater.exe -tools_update_query 小工具升级  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;12/11/2014 5:45:44 PM &lt;/p&gt;</summary><category term="pelican"></category></entry><entry><title>模块升级</title><link href="/%E6%A8%A1%E5%9D%97%E5%8D%87%E7%BA%A7.html" rel="alternate"></link><updated>2010-10-03T10:20:00+02:00</updated><author><name>Alexis Metaireau</name></author><id>tag:,2010-10-03:模块升级.html</id><summary type="html"></summary><category term="thats"></category><category term="awesome"></category></entry></feed>

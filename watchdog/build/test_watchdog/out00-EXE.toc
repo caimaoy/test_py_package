@@ -1,0 +1,9 @@
+('D:\\caimaoy\\python\\watchdog\\dist\\test_watchdog.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1429069829L)

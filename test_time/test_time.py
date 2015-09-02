@@ -40,16 +40,16 @@ def test(a):
 
 s = 'dkfjdkfjdkfjdkfjdkfjdkf' * 80
 a = ''
-@test_times(100)
+@test_times(1000)
 def boo():
     global a
     a += s
 
-@test_times(100)
+@test_times(1000)
 def boo2():
     a = ''.join([s])
 
-@test_times(100)
+@test_times(1000)
 def boo3():
     a = s
 
